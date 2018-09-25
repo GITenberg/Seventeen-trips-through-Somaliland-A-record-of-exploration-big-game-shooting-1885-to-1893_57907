@@ -1,11 +1,16 @@
 _repo: Seventeen-trips-through-Somaliland-A-record-of-exploration-big-game-shooting-1885-to-1893_57907
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57907-h/images/cover.jpg
 creator:
   author:
     agent_name: Swayne, Captain H. G. C. (Harald G. C.)
     gutenberg_agent_id: '49679'
     url: http://www.gutenberg.org/2009/agents/49679
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57907#Seventeen-trips-through-Somaliland-A-record-of-exploration-big-game-shooting-1885-to-1893
 gutenberg_issued: '2018-09-14'
 gutenberg_type: Text
 identifiers:
